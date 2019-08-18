@@ -1,6 +1,6 @@
 How to Contribute to this project
 
-# Clone the repos
+# Clone the repo
 # Open index.html
 # Add your name using an # followed by yourname
 # Add your code plateaue experience
